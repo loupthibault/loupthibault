@@ -1,16 +1,14 @@
-### Hi there 👋
+## About
 
-<!--
-**loupthibault/loupthibault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with over 15 years of experience, specializing in the development of websites with particular expertise in animations, performance, and user interactions.
+Currently lead developer at [Bonhomme](https://bonhommeparis.com/en/).
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[loupthibault.dev@gmail.com](mailto:loupthibault.dev@gmail.com)
+
+## Social networks
+
+[Twitter](https://twitter.com/loupthibault)
+[Linkedin](https://www.linkedin.com/in/loupthibault/)
+[Behance](https://www.behance.net/loupthibaue86e)
