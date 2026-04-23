@@ -1,7 +1,6 @@
 ## About
 
 Frontend Developer with over 15 years of experience, specializing in the development of websites with particular expertise in animations, performance, and user interactions.
-Currently lead developer at [Bonhomme](https://bonhommeparis.com/en/).
 
 ## Contact
 
