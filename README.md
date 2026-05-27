@@ -4,7 +4,7 @@ Frontend Developer with over 15 years of experience, specializing in the develop
 
 ## Contact
 
-[loupthibault.dev@gmail.com](mailto:loupthibault@pm.me)
+[loupthibault@pm.me](mailto:loupthibault@pm.me)
 
 ## Social networks
 
